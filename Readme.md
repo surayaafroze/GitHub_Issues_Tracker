@@ -1,40 +1,60 @@
-What is the difference between var, let, and const?
-answer:
-* Var is the old way to declare variables in Javascript. 
-* let is used to declare variables that can be reassigned but cannot be redeclared in the same scope.
-* const is used to declare constant variables .It cannot be reassigned or redeclared.
+
+# Job Application Tracker  
+
+## 📌 Project Overview  
+Job Application Tracker Dashboard is a responsive web application that allows users to manage and track job applications in an organized way. Users can view all available jobs, mark them as Interview or Rejected, and monitor their progress through a clean dashboard interface.
+
+This project focuses on DOM manipulation, event handling, and dynamic UI updates using JavaScript (ES6)  
+
+---
 
 
+## ⚙️ Technologies Used 
+
+- Tailwind CSS  
+- HTML5  
+- DOM manipulation,
+- CSS3  
+- JavaScript (ES6)  
+
+---
+## ✨ Key Features  
+
+-   Add new job applications
+-   Track job details like title, company, and dates
+-   Manage interview and rejection information
+-   Simple and clean user interface
+-   Helps users stay organized during job search
+-   Fast and responsive performance
+
+---
+
+## 📦 Dependencies   
 
 
+- HTML5  
+- Tailwind CSS  
+- DOM manipulation,
+- CSS3  
+- JavaScript (ES6)  
 
-2️⃣ What is the spread operator (...)?
-answer:
-* The spread operato is used to expand elements of an array or obfext into another array or object.
+---
 
+## 🚀 Run Locally  
 
-
-
-
-3️⃣ What is the difference between map(), filter(), and forEach()?
-answer:
-* map() creates a new aray by applying a function to each elemment .
-* filter() creates a new array with elements that match a condition.
-* forEach() executes a function for each element but does not return a new array.
-
-
-
+```bash
+git clone https://github.com/your-username/job-application-tracker.git
+cd job-application-tracker
+open index.html
+```
 
 
+---
 
-4️⃣ What is an arrow function?
-answer:
-* An arrow function is a shorter way to write a function in javascript.
+## 🔗 Live Link  
+🌍Live Website: [https://job-application-tracker-javascript.netlify.app/
 
+🌍GitHub: https://surayaafroze.github.io/GitHub_Issues_Tracker/ 
 
+---
 
-
-
-5️⃣ What are template literals?
-answer:
-* Template literals are used to write strings and include varables inside them using backticks.
